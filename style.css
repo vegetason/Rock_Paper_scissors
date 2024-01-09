@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: orange;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#screen{
+    width: 650px;
+    height: 100px;
+    border: 1px solid blue;
+    align-self: center;
+    text-align: center;
+    padding-top: 50px;
+    box-shadow: 5px 6px 10px black;
+}
+img{
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-left: 20px;
+    box-shadow: 5px 6px 10px black;
+}
+h1{
+    text-shadow: 3px 5px 10px black;
+}
